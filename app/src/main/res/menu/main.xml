@@ -5,4 +5,6 @@
         app:showAsAction="withText|ifRoom" /-->
     <item android:id="@+id/action_settings" android:title="@string/action_settings"
         android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/atn_direct_discover" android:title="@string/discover_peers_button"
+        android:orderInCategory="80" app:showAsAction="ifRoom|withText" />
 </menu>

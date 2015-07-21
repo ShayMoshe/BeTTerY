@@ -20,7 +20,7 @@ import android.widget.ToggleButton;
 /**
  * Created by smoshe4 on 3/23/2015.
  */
-public class menu2_Fragment extends Fragment {
+public class menu2_Fragment extends Fragment  {
     View view;
     private TextView txtBattery;
     public String mTAG = "menu2_Fragment";
